@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="self.project.qrcode.GeneratecodeApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-24T14:40:35" hostname="DESKTOP-KB3QKF5" time="0.79">
+  <properties/>
+  <testcase name="contextLoads()" classname="self.project.qrcode.GeneratecodeApplicationTests" time="0.79"/>
+  <system-out><![CDATA[21:40:32.706 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [self.project.qrcode.GeneratecodeApplicationTests]: GeneratecodeApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+21:40:32.815 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration self.project.qrcode.GeneratecodeApplication for test class self.project.qrcode.GeneratecodeApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.5)
+
+2023-11-24T21:40:33.286+07:00  INFO 19212 --- [    Test worker] s.p.qrcode.GeneratecodeApplicationTests  : Starting GeneratecodeApplicationTests using Java 17.0.7 with PID 19212 (started by jacky in G:\github\generatecode)
+2023-11-24T21:40:33.288+07:00  INFO 19212 --- [    Test worker] s.p.qrcode.GeneratecodeApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2023-11-24T21:40:34.983+07:00  INFO 19212 --- [    Test worker] s.p.qrcode.GeneratecodeApplicationTests  : Started GeneratecodeApplicationTests in 1.988 seconds (process running for 3.198)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
